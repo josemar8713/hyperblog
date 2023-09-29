@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 esta es mi historia soy martin
 tengo 27 años
 vivo en ecatepec
 vivo en la casa 1
 mi comida favorita es la pizza
+=======
+hola esta es la historia de martin
+
+tengo 30 años
+
+me gusta viajar por el mundo hablaremos de su vida y obra maestra
+
+
+>>>>>>> 0efe368f9562a499fdb8699c0e7b1f8cf8807bd7
